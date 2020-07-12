@@ -1,28 +1,31 @@
-# Greetings, I'm Ivan Mickovski 🙋‍♂️
-## 💻👨‍💻Full Stack Web Developer
+<h1>Greetings, I'm Ivan Mickovski 🙋‍♂️</h1>
+<h2>💻👨‍💻Full Stack Web Developer</h2>
+<hr>
 
-### How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imickovski/)](https://www.linkedin.com/in/imickovski/)
-   __________________________________________________________________________________________________________________________________________
+<h3>How to reach me:</h3>
 
-## Tools & Technologies 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/imickovski)](https://github.com/imickovski)
+<a href="https://www.linkedin.com/in/imickovski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ivan_mickovski@hotmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/imickovski)](https://github.com/imickovski)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/imickovski)](https://github.com/imickovski)
+<h2>Tools & Technologies</h2> 
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+<hr>
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/imickovski)](https://github.com/imickovski)
+<h2>Other Skills</h2>
+<h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 
+<p align='left'>
+   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=imickovski.imickovski"></a>
+ </p>
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/imickovski)](https://github.com/imickovski)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski)](https://github.com/imickovski)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski)](https://github.com/imickovski)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/imickovski)](https://github.com/imickovski)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski)](https://github.com/imickovski)
-
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/imickovski)](https://github.com/imickovski)
-
-## Other Skills
-### 💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
+ <p align='right'>
+   <a href="https://developer.spotify.com/?_gl=1*1r7r86z*_gcl_aw*R0NMLjE1OTQ1NDY0MTUuQ2owS0NRanc2YXI0QlJEbkFSSXNBSVRHemxCNmJYLU83WVJJZkxjejZmWlJVUU5ZQ3JhVllHaWhGb190RHFpbHhfdGQzV2d0OWdxblE0VWFBby1zRUFMd193Y0I.*_gcl_dc*R0NMLjE1OTQ1NDY0MTUuQ2owS0NRanc2YXI0QlJEbkFSSXNBSVRHemxCNmJYLU83WVJJZkxjejZmWlJVUU5ZQ3JhVllHaWhGb190RHFpbHhfdGQzV2d0OWdxblE0VWFBby1zRUFMd193Y0I.&_ga=2.248713351.1639394264.1594546416-323639461.1585437038&_gac=1.213768678.1594546416.Cj0KCQjw6ar4BRDnARIsAITGzlB6bX-O7YRIfLcz6fZRUQNYCraVYGihFo_tDqilx_td3Wgt9gqnQ4UaAo-sEALw_wcB"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ </p>
