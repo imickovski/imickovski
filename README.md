@@ -1,4 +1,4 @@
-# Greetings, I'm Ivan Mickovski 👋
+# Greetings, I'm Ivan Mickovski 🙋‍♂️
 ## 💻👨‍💻Full Stack Web Developer
 
 ### How to reach me:
