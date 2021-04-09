@@ -1,5 +1,5 @@
 <h1>Hello, I'm Ivan Mickovski 🙋‍♂️</h1>
-<h2>💻👨‍💻Full Stack Web Developer</h2>
+<h2>💻👨‍💻JavaScript Developer</h2>
 <hr>
 
 <h3>How to reach me:</h3>
