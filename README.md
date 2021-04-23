@@ -1,5 +1,6 @@
 <h1>Hello, I'm Ivan Mickovski 🙋‍♂️</h1>
 <h2>💻👨‍💻JavaScript Developer</h2>
+<h3>Salesforce Lightning Web Components</h3>
 <hr>
 
 <h3>How to reach me:</h3>
